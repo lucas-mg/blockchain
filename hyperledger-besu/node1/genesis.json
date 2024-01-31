@@ -1,0 +1,18 @@
+{
+  "config": {
+    "chainId": 2018,
+    "constantinoplefixblock": 0,
+    "byzantiumblock": 0,
+    "homesteadblock": 0,
+    "eip150block": 0,
+    "eip155block": 0,
+    "eip158block": 0,
+    "istanbul": {
+      "block": 0,
+      "epoch": 30000,
+      "policy": 0
+    }
+  },
+  "difficulty": "0x20000",
+  "gasLimit": "0x5B8D80"
+}
