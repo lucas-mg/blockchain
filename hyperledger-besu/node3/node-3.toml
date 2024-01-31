@@ -1,0 +1,11 @@
+# node-3.toml
+rpc-http-enabled = true
+rpc-http-api = ["ETH", "NET", "WEB3", "DEBUG"]
+p2p-enabled = true
+p2p-host = "0.0.0.0"
+p2p-port = 30303
+p2p-advertised-host = "your_node_1_ip"
+p2p-advertised-port = 30303
+data-path = "./data"
+genesis-file = "./genesis.json"
+network-id = 2018
